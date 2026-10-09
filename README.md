@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Business Analytics Portfolio
 
 Welcome to my Business analytics portfolio! This repository showcases projects demonstrating my ability to clean and analyze data, develop dashboards, identify business trends, and communicate actionable insights.
 
