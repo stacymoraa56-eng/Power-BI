@@ -1,8 +1,8 @@
-# SQL + Power BI Sales Analytics Dashboard
+# Company Sales Analytics Dashboard
 ## Dashboard Preview
 ![Company Sales Dashboard](Company_Sales_Dashboard.png)
 
-# SQL + Power BI Sales Analytics Dashboard
+# Company Sales Analytics Dashboard
 
 An end-to-end sales analytics project that transforms transactional data into actionable business insights using SQL for data preparation and analysis and Power BI for interactive visualization.
 
