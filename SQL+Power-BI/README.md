@@ -1,6 +1,6 @@
 # SQL + Power BI Sales Analytics Dashboard
 ## Dashboard Preview
-![Company Sales Dashboard](images/company-sales-dashboard.png)
+![Company Sales Dashboard](Company_Sales_Dashboard.png)
 
 # SQL + Power BI Sales Analytics Dashboard
 
@@ -8,9 +8,6 @@ An end-to-end sales analytics project that transforms transactional data into ac
 
 The project demonstrates how structured querying, business metrics, and data visualization can help organizations understand sales performance, monitor trends, and identify opportunities for improvement.
 
-##  Dashboard Preview
-
-![Company Sales Dashboard](images/company-sales-dashboard.png)
 
 ##  Project Objectives
 
